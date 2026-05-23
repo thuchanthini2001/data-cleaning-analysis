@@ -1,4 +1,10 @@
-# data-cleaning-analysis
+# 🎬 data-cleaning-analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 An **end-to-end ELT (Extract → Load → Transform)** data engineering project that cleans, transforms, and analyzes the Netflix dataset using **Python (Pandas + SQLAlchemy)** and **Microsoft SQL Server (SSMS)**.
 
