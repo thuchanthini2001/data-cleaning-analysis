@@ -9,6 +9,9 @@
 An **end-to-end ELT (Extract → Load → Transform)** data engineering project that cleans, transforms, and analyzes the Netflix dataset using **Python (Pandas + SQLAlchemy)** and **Microsoft SQL Server (SSMS)**.
 
 ---
+## 🏗️ Architecture
+
+![Architecture](elt_architecture.svg)
 
 ## 📌 Project Overview
 
