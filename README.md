@@ -29,9 +29,9 @@ An **end-to-end ELT (Extract → Load → Transform)** data engineering project 
 ```
 netflix-data-cleaning-analysis/
 │
-├── dataextract.ipynb          # Python: Load CSV → SQL Server (ELT Extract & Load)
-├── Raw.sql                    # SQL: Create net_raw table schema
-├── DataAnalysis.sql           # SQL: Data cleaning + 5 business analysis queries
+├── data_extract.ipynb          # Python: Load CSV → SQL Server (ELT Extract & Load)
+├── raw.sql                    # SQL: Create net_raw table schema
+├── data_analysis.sql           # SQL: Data cleaning + 5 business analysis queries
 └── README.md
 ```
 
